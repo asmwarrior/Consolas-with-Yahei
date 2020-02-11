@@ -16,9 +16,9 @@ This font is called "Consolas-with-Yahei" (Keep all original characters of Conso
 Screen Shots:
 ---
 
-![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/js.png "Javascript")
+![image](Screenshots/js.png "Javascript")
 
-![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/md.png "Markdown")
+![image](Screenshots/md.png "Markdown")
 
 Additonal Tips:
 ---
